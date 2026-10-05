@@ -1,2 +1,5 @@
-# Ignore png
+# Ignorar archivos PNG
 *.png
+
+# Ignorar carpeta img
+img/
